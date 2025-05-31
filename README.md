@@ -8,26 +8,18 @@ Este bot está diseñado para enviar rutinas de ejercicios de gimnasio por grupo
 
 ## 🚀 Características
 
-- Responde a comandos como `/start` y `/rutina`.
+- Responde a comandos como `/start` y Pecho, Espalda, Piernas, Biceps, Triceps, Hombro
 - Interfaz interactiva con botones para seleccionar el grupo muscular.
 - Procesa texto libre del usuario y responde con rutinas.
 - Fácil de extender con más músculos o rutinas.
 
 ---
 
-## 🧠 Requisitos
-
-- Python 3.10+
-- Una cuenta de Telegram y un bot creado con [@BotFather](https://t.me/BotFather)
-- Archivo `.env` con tu token de bot
-
----
-
-## 📦 Instalación
-
-1. Clona el repositorio o descarga los archivos.
-
-2. Instala las dependencias:
-
-```bash
-pip install python-telegram-bot python-dotenv
+comandos= 
+Pecho
+Espalda
+Piernas
+Biceps
+Triceps
+Hombro
+y te dara la rutina del grupo muscuilar que escribas
